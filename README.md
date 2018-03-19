@@ -1,6 +1,6 @@
 # ServeKCInfoSystem
 
-## Preperation / dependencies
+## Preparation / dependencies
 1. Install python libraries
 ```
 pip install meetup-api
