@@ -7,7 +7,7 @@ pip install meetup-api
 pip install flatten_json
 ```
 2. Clone repository or download zip file
-3. Edit ServceKCInfoSystem.py and add your API key into the 
+3. Edit ServceKCInfoSystem.py and add your API key into the variable toward the top of the script
 ```
 APIKEY = "<insert key here>"
 ```
